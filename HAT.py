@@ -20,10 +20,4 @@ if bit == '64bit':
 
     menu()
 
-elif bit == '32bit':
 
-    print('\033[0;97m[•] \033[1;32mCONGRATULATIONS 32BIT SUCCESS')
-
-    from sudair import menu
-
-    menu()
